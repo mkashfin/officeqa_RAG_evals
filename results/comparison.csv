@@ -1,7 +1,0 @@
-Metric,Baseline,Engineered,Improvement
-Hit Rate@5,0.5333,1.0,0.875
-MRR,0.3578,1.0,1.795
-Recall,0.3222,0.6444,1.0
-Groundedness,0.8667,1.0,0.1538
-Factual Accuracy,0.3333,0.6,0.8
-Hallucination Rate,0.1333,0.0,1.0
